@@ -1,0 +1,31 @@
+
+UI= User interface: 
+Como afecta la experiencia del usuario la interface 
+Seleccion y distribucion de los elemetos 
+Consistencia 
+No diseño grafico
+
+
+Un producto se diseña pensando en la experiencia del usuario
+
+-Usabilidad 
+-Funcionamiento 
+-Sentimiento
+
+layout= acomodo 
+UX= User experience: saber como va a usar la gente es esencial 
+Toda la interaccion que tiene una persona con tu producto en un periodo de tiempo
+Momento en que el usuario experimenta con el producto
+Proceso de mejorar la satisfaccion del usuario mejorando la usabilidad accesibilidad y 
+la interaccion entre el usuario y el producto 
+
+Sketch: ideas o funcionalidades explicar ideas que tienes cuales son tus ideas
+
+wireframe: incluyen las funcionalidades y layout
+pensar las pantallas y funcionalidades 
+
+mockup: textos colores detalles iconos
+
+
+Prototype: 
+
